@@ -1,6 +1,6 @@
 # 🍎 Apple-Style Calculator
 
-A sleek, functional web calculator inspired by the iOS design, built as part of **The Odin Project** curriculum.
+A sleek, functional web calculator inspired by the iOS design.
 
 [Live Demo](https://alexdev262.github.io/Apple-Calculator/)
 
